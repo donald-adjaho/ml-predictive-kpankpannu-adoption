@@ -1,16 +1,13 @@
-# ​Facteurs qui prédisent l'adoption d'une innovation alimentaire à visée nutritionnelle au Nord-Bénin : Approche analytique et Apprentissage automatique.
+## ​Facteurs qui prédisent l'adoption d'une innovation alimentaire à visée nutritionnelle au Nord-Bénin : Approche analytique et Apprentissage automatique.
 
 ****
 
-# Predicting Adoption Factors of a Nutritional Food Innovation in Northern Benin: A Data Analytics and Machine Learning Approach.
+## Predicting Adoption Factors of a Nutritional Food Innovation in Northern Benin: A Data Analytics and Machine Learning Approach.
 
 ## Repository Title :
 ml-predictive-kpankpannu-adoption
 
-<p align="center">
-  <img src="assets/kpanpannu.jpg>" alt="Emballages de la farine enrichie kpankpannu" width="1384" height="1250">
-</p>
-
+![Emballages de la farine enrichie kpankpannu](assets/kpanpannu.jpg)
 ---
 
 ## Contexte (FR)
