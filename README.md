@@ -1,18 +1,28 @@
-### Titre du Projet :
-Facteurs qui prédisent l'adoption d'une innovation alimentaire à visée nutritionnelle au Nord-Bénin : Approche analytique et Apprentissage automatique.
-### Title of project :
-Predicting Adoption Factors of a Nutritional Food Innovation in Northern Benin: A Data Analytics and Machine Learning Approach.
-### Repository Title :
+# ​Facteurs qui prédisent l'adoption d'une innovation alimentaire à visée nutritionnelle au Nord-Bénin : Approche analytique et Apprentissage automatique.
+
+****
+
+# Predicting Adoption Factors of a Nutritional Food Innovation in Northern Benin: A Data Analytics and Machine Learning Approach.
+
+## Repository Title :
 ml-predictive-kpankpannu-adoption
+
+<p align="center">
+  <img src="assets/kpanpannu.jpg>" alt="Emballages de la farine enrichie kpankpannu" width="1384" height="1250">
+</p>
 
 ---
 
 ## Contexte (FR)
 
 Dans le cadre de mon projet de Fin de Formation en Planification et Suivi-évaluation, j'ai eu l'honneur de travailler sur le thème : "Etude de faisabilité de la Promotion de la farine enrichie Kpankpannu, dans le cadre de la lutte contre la malnutrition infantile à Parakou".
+
 Le Kpankpannu est une farine locale enrichie développée avec les femmes des milieux ruraux du Bénin dans le cadre du Projet « NaviNut », coordonné par l’institut allemand DITSL dans la vision d'apporter une solution permettant de contribuer à lutter contre la malnutrition infantile, un problème de santé publique au Bénin et dans d'autres pays de l'Afrique subsaharienne. 
 Cette farine est au prime à bord très présent à Banikoara, ville dans laquel elle a été créer, mais pour que cette innovation alimentaire puisse avoir un impact, il faut quel puisse être diffuser également dans les autres marchés du Bénin, d'ou l'exemple du marché de Parakou qui est mis au coeur de ce projet. 
-L'objectif principale a été donc d'évaluer la faisabilité d'une campagne de promotion de ce produit à parakou en analysant tout les aspect autour. Ce même projet m'a permis en partenariat avec l'UR - SAPHA (Unité de Recherche des Système Agro Pastoraux, Humanitaire et Alimentaire) d'étendre mon travail sur le thème : "DE L'ACCEPTABILITÉ À L'ADOPTION : QUELS LEVIERS POUR DIFFUSER UNE INNOVATION ALIMENTAIRE LOCALE À VISÉE NUTRITIONNELLE AU NORD-BÉNIN ?" à l'occasion des JSSED (Journées Scientifique de la Statistique, de l'évaluation et de la Démographie) organisé par l'ENSPD en partenariat avec d'autres institutions (université, ONG, organisme publique / privé). Il en résort que : l'acceptabilité déclarée ne suffit pas à garantir l'adoption effective. La réduction des barrières de prix, l'amélioration de la disponibilité et l'adaptation du produit aux pratiques des consommateurs apparaissent comme des leviers essentiels pour le changement d'échelle des innovations alimentaires locales. Mais nous ne savons pas encore du côté des consommateurs , ce qui pourrait être responsable du fait qu'ils adoptent kpankpannu ou pas. C'est donc une autre piste à explorer. Avec les nouvelles technologies du moment, nous serons capables de dire  ce qui va pousser une femme enceinte ou mère d'enfant agés de 5 ans à se procurer au besoin cette farine enrichie.
+
+L'objectif principale a été donc d'évaluer la faisabilité d'une campagne de promotion de ce produit à parakou en analysant tout les aspect autour. Ce même projet m'a permis en partenariat avec <a href="https://www.linkedin.com/company/unit%C3%A9-de-recherche-sur-les-syst%c3%A8mes-agro-pastoraux-humanitaires-et-alimentaires-ur-sapha"> l'UR - SAPHA (Unité de Recherche sur les Systèmes Agro-Pastoraux, Humanitaires et Alimentaires) </a> d'étendre mon travail sur le thème : **"DE L'ACCEPTABILITÉ À L'ADOPTION : QUELS LEVIERS POUR DIFFUSER UNE INNOVATION ALIMENTAIRE LOCALE À VISÉE NUTRITIONNELLE AU NORD-BÉNIN ?"** à l'occasion des JSSED (Journées Scientifique de la Statistique, de l'évaluation et de la Démographie) organisé par <a href="https:www.linkedin.com/company/enspd-up-bj? originalSubdomain=bj">l'ENSPD</a> en partenariat avec d'autres institutions (université, ONG, organisme publique / privé). Il en résort que : l'acceptabilité déclarée ne suffit pas à garantir l'adoption effective.
+
+La réduction des barrières de prix, l'amélioration de la disponibilité et l'adaptation du produit aux pratiques des consommateurs apparaissent comme des leviers essentiels pour le changement d'échelle des innovations alimentaires locales. Mais nous ne savons pas encore du côté des consommateurs , ce qui pourrait être responsable du fait qu'ils adoptent kpankpannu ou pas. C'est donc une autre piste à explorer. Avec les nouvelles technologies du moment, nous serons capables de dire  ce qui va pousser une femme enceinte ou mère d'enfant agés de 5 ans à se procurer au besoin cette farine enrichie.
 
 ---
 
@@ -24,7 +34,7 @@ Kpankpannu is an enriched local flour developed with rural women in Benin as par
 
 This flour is widely present at Prime à Bord in Banikoara, a city where it was created. However, for this food innovation to have impact, it needs to be distributed in other markets across Benin, hence the example of the Parakou market serving as the focus of this project.
 
-The main objective was therefore to evaluate the feasibility of a promotion campaign for this product in Parakou by analyzing all aspects related to its adoption. This project also allowed me, in partnership with UR-SASHA (Agro-Pastoral, Humanitarian and Food Systems Research Unit), to expand my work on the theme: "FROM ACCEPTABILITY TO ADOPTION: WHAT LEVERS TO DISSEMINATE A LOCAL FOOD INNOVATION WITH A NUTRITIONAL FOCUS IN NORTHERN BENIN?" during the JSSED (Journal of Statistics, Evaluation and Demography Sciences) organized by ENSPD in partnership with other institutions (university, NGO, public/private organizations). It is summarized that declared acceptability is not sufficient to guarantee effective adoption. Reducing price barriers, improving availability and adapting the product to consumers' practices appear as essential levers for scaling up local food innovations. However, we still do not know from the consumer's perspective what might be responsible for the fact that they adopt or do not adopt kpankpannu. This is therefore another avenue to explore. With current technological advances, we will be able to identify what will drive an pregnant woman or mother of a 5-year-old child to procure this enriched flour when needed.
+The main objective was therefore to evaluate the feasibility of a promotion campaign for this product in Parakou by analyzing all aspects related to its adoption. This project also allowed me, in partnership with <a href="https://www.linkedin.com/company unit%C3%A9-de-recherche-sur-les-syst%c3%A8mes-agro-pastoraux-humanitaires-et-alimentaires-ur-sapha"> UR-SASHA (Agro-Pastoral, Humanitarian and Food Systems Research Unit) </a>, to expand my work on the theme: **"FROM ACCEPTABILITY TO ADOPTION: WHAT LEVERS TO DISSEMINATE A LOCAL FOOD INNOVATION WITH A NUTRITIONAL FOCUS IN NORTHERN BENIN?"** during the JSSED (Journal of Statistics, Evaluation and Demography Sciences) organized by <a href="https:www.linkedin.com/company/enspd-up-bj? originalSubdomain=bj">l'ENSPD</a> in partnership with other institutions (university, NGO, public/private organizations). It is summarized that declared acceptability is not sufficient to guarantee effective adoption. Reducing price barriers, improving availability and adapting the product to consumers' practices appear as essential levers for scaling up local food innovations. However, we still do not know from the consumer's perspective what might be responsible for the fact that they adopt or do not adopt kpankpannu. This is therefore another avenue to explore. With current technological advances, we will be able to identify what will drive an pregnant woman or mother of a 5-year-old child to procure this enriched flour when needed.
 
 ---
 
@@ -334,5 +344,6 @@ Ce projet démontre comment une **approche analytique + machine learning** peut 
 
 ---
 
-Auteur / Author : Donald Adjaho
-Mail : donaldadjaho@yahoo.com
+👤​ Auteur / Author : Donald Adjaho
+
+📬​ Mail : donaldadjaho@yahoo.com
